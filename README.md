@@ -3,8 +3,8 @@
 
 ## 说明
 - 使用python语言编写
-- 曲线绘制和交互用matlab的python移植库matplotlib实现
-- 图形界面是PyQt5实现
+- 曲线绘制和交互使用matlab的python移植库matplotlib实现
+- 图形界面使用PyQt5实现
 - 运行环境：python3.6
 - 第三方库：matplotlib、pyqt5、numpy
 
