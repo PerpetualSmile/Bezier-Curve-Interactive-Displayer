@@ -15,7 +15,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>2.ico</normaloff>2.ico</iconset>
+    <normaloff>ico.ico</normaloff>ico.ico</iconset>
   </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>

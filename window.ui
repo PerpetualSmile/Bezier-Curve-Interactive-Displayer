@@ -21,7 +21,7 @@
   </property>
   <property name="windowIcon">
    <iconset>
-    <normaloff>2.ico</normaloff>2.ico</iconset>
+    <normaloff>ico.ico</normaloff>ico.ico</iconset>
   </property>
   <property name="windowOpacity">
    <double>3.000000000000000</double>
