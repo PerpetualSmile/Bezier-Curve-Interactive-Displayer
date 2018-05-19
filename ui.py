@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file '1.ui'
+# Form implementation generated from reading ui file 'window.ui'
 #
 # Created by: PyQt5 UI code generator 5.9.2
 #
@@ -16,6 +16,11 @@ class Ui_MainWindow(object):
         font.setFamily("Microsoft YaHei UI")
         font.setPointSize(10)
         MainWindow.setFont(font)
+        icon = QtGui.QIcon()
+        icon.addPixmap(QtGui.QPixmap("2.ico"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
+        MainWindow.setWindowIcon(icon)
+        MainWindow.setWindowOpacity(3.0)
+        MainWindow.setIconSize(QtCore.QSize(100, 100))
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.verticalLayout = QtWidgets.QVBoxLayout(self.centralwidget)
@@ -73,7 +78,7 @@ class Ui_MainWindow(object):
         self.lineEdit = QtWidgets.QLineEdit(self.groupBox_7)
         self.lineEdit.setInputMask("")
         self.lineEdit.setFrame(False)
-        self.lineEdit.setCursorPosition(0)
+        self.lineEdit.setCursorPosition(2)
         self.lineEdit.setDragEnabled(False)
         self.lineEdit.setPlaceholderText("")
         self.lineEdit.setCursorMoveStyle(QtCore.Qt.LogicalMoveStyle)

@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Form implementation generated from reading ui file '2.ui'
+# Form implementation generated from reading ui file 'table.ui'
 #
 # Created by: PyQt5 UI code generator 5.9.2
 #
@@ -12,6 +12,9 @@ class Ui_Form(object):
     def setupUi(self, Form):
         Form.setObjectName("Form")
         Form.resize(685, 699)
+        icon = QtGui.QIcon()
+        icon.addPixmap(QtGui.QPixmap("2.ico"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
+        Form.setWindowIcon(icon)
         self.verticalLayout_2 = QtWidgets.QVBoxLayout(Form)
         self.verticalLayout_2.setObjectName("verticalLayout_2")
         self.verticalLayout = QtWidgets.QVBoxLayout()

@@ -13,6 +13,10 @@
   <property name="windowTitle">
    <string>More Information</string>
   </property>
+  <property name="windowIcon">
+   <iconset>
+    <normaloff>2.ico</normaloff>2.ico</iconset>
+  </property>
   <layout class="QVBoxLayout" name="verticalLayout_2">
    <item>
     <layout class="QVBoxLayout" name="verticalLayout">
