@@ -1,5 +1,5 @@
 # Bezier-Curve-Interactive-Displayer
-一个可以鼠标拖动曲线控制点和光滑拼接贝赛尔曲线的GU
+一个可以演示鼠标拖动曲线控制点和光滑拼接贝赛尔曲线的小工具
 
 ## 说明
 - 使用python语言编写
