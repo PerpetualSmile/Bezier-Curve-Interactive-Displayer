@@ -11,7 +11,8 @@
 </br>
 
 ## 功能演示
-
+    背景的痕迹是gif制作时的瑕疵，不是程序本身问题
+    
 ### 鼠标拖动曲线的控制点，实时改变曲线
 
 ![](https://raw.githubusercontent.com/PerpetualSmile/picture/master/Bezier/GIF.gif)
